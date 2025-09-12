@@ -1,0 +1,1 @@
+// har inga helsyskon, birthrate ser inte så bra ut här i landet. Kan inte ens få en hel
