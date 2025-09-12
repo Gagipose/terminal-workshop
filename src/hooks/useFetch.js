@@ -1,2 +1,2 @@
 // Jag vill kunna skapa lösningar på folks problem. Vill förstå språket helt så att jag kan använda AI effektivt. No wonky vibe coding 
-// Ett framtida mål som utveklare är att skapa mjukvara som är så bra att användare känner att dem måste få alla att använda den.git
+// Ett framtida mål som utveklare är att skapa mjukvara som är så bra att användare känner att dem måste få alla att använda den
