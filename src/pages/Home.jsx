@@ -1,0 +1,2 @@
+// min favoritmat är det som är enkelt att laga, helt sjukt när det skall ta lång tid att laga mat. Tortyr =)
+// på fritiden gillar jag att läsa böcker om psykologi, ganska coolt att alla har en dator där uppe i huvudet
